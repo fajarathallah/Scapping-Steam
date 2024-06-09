@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     
 jobs:
-  scrapping steam-scrape:
+  scrapping_steam-scrape:
     runs-on: macOS-latest
     env:
       ATLAS_URL: ${{ secrets.ATLAS_URL }}
