@@ -1,4 +1,4 @@
-name: scrapping_steam
+name: Scrapping_steam
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     
 jobs:
-  scrapping_steam-scrape:
+  Scrapping_steam-scrape:
     runs-on: macOS-latest
     env:
       ATLAS_URL: ${{ secrets.ATLAS_URL }}
