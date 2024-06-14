@@ -45,7 +45,7 @@ item <- item[!is.na(item$harga), ]
 
 
 
-MONGODB
+#MONGODB
 message('Input Data to MongoDB Atlas')
 atlas_conn <- mongo(
   collection = Sys.getenv("ATLAS_COLLECTION"),
