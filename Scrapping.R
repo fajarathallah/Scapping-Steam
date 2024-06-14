@@ -43,8 +43,6 @@ item <- data.frame(top_seller, harga)
 # Menghapus baris dengan harga NA
 item <- item[!is.na(item$harga), ]
 
-# Menampilkan data
-View(item)
 
 
 MONGODB
