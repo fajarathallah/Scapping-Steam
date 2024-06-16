@@ -1,4 +1,4 @@
 # Scapping-Steam
 
 <p align = "center">
-![download](https://github.com/fajarathallah/Scapping-Steam/assets/116250526/8481877f-ea21-4748-b178-e6b20112cf46)
+![download](https://github.com/fajarathallah/Scapping-Steam/assets/116250526/6e9c3201-d967-4046-b378-f4330b9ba695)
