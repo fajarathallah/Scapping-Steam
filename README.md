@@ -30,6 +30,11 @@ _id":{"$oid":"666be7c6b1b5e5d7e208d0d1"},
 }
 ```
 
+## 💻 : PPT projek
+Berikut merupakan link PPT hasil dari projek ini.
+
+[PPT Scrapping Steam](https://drive.google.com/file/d/1hunQIxjrHScwlVyk4TeME8DBnGtD4I47/view?usp=drive_link)
+
 
 ## 🐵 : Develop by
 Fajar Athallah Yusuf (G1501230138)
