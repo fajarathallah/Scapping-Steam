@@ -6,9 +6,6 @@
 
  [![General badge](https://img.shields.io/badge/Scrapping-passing-<COLOR>.svg)](https://shields.io/)
 
-<div align="center">
-Scrapping Steam
-</div>
 
 ## 🚂 : Apa itu steam?
 Steam adalah layanan distribusi digital untuk video game yang dikelola oleh Valve Corporation. Diluncurkan sebagai klien perangkat lunak pada September 2003, Steam awalnya dibuat untuk menyederhanakan proses pembaruan game Valve seperti Counter-Strike. Sejak itu, Steam telah berkembang menjadi  pengembang dan penerbit, menjadikannya salah satu platform terpenting dalam industri video game modern.
