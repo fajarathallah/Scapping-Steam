@@ -25,11 +25,12 @@ Tools yang digunakan dalam melakukan scrapping yakni; RStudio sebagai GUI, Mongo
 
 ## 🏠 : Warehouse
 Berikut merupakan contoh sintaks di MongoDB
+```
 {"
 _id":{"$oid":"666be7c6b1b5e5d7e208d0d1"},
 "top_seller":"Counter-Strike 2",
 "harga":"Free"
 }
-
+```
 
 
