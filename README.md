@@ -1,7 +1,7 @@
 # Scapping-Steam
 
 <p align="center">
-  <img width="300" height="300" src="C:/Users/ASUS/downloads.png">
+  <img width="300" height="300" src="Doc/downloads.png">
 </p>
 
  [![General badge](https://img.shields.io/badge/Scrapping-passing-<COLOR>.svg)](https://shields.io/)
